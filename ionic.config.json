@@ -1,0 +1,7 @@
+{
+  "name": "Appo11",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
